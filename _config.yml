@@ -1,13 +1,13 @@
-title:             res1k
+title:             resikcam
 email:             mackiser@pm.me
-description:       A Blog About Video Games (mostly Destiny 2)
-author:            res1k
+description:       (it's my name spelled backwards)
+author:            Mac
 baseurl:           ""
 url:               "https://res1k.me"
 
 # Social Profiles
 twitter_username:  resikcam
-github_username:   res1k
+github_username:   resikcam
 facebook_username:
 
 # Build settings
