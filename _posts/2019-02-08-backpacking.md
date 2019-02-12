@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Paris"
-subtitle: "A few photos from our 3-day adventure in Paris, France."
-date:   2018-10-10 6:03:00 -0400
+title:  "Backpacking Europe"
+subtitle: "Some photos from our month long trip to Europe."
+date:   2019-02-08 7:30:00 -0400
 background: ''
 ---
 
@@ -41,7 +41,9 @@ background: ''
     </div>
     <div class="col-sm">
       <div class="gradient-wrap img-box">
-    		<a target="" href="../../../../img/grade-test/4.jpg"><img class="img" src="../../../../img/grade-test/4.jpg" alt="" /></a>
+    		<a target="" href="../../../../img/grade-test/4.jpg"><img style="-ms-transform: rotate(90deg); /* IE 9 */
+-webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+transform: rotate(90deg);" class="img" src="../../../../img/grade-test/4.jpg" alt="" /></a>
 		</div>
     </div>
 </div>
@@ -55,6 +57,19 @@ background: ''
     <div class="col-sm">
       <div class="gradient-wrap img-box">
     		<a target="" href="../../../../img/grade-test/6.jpg"><img class="img" src="../../../../img/grade-test/6.jpg" alt="" /></a>
+		</div>
+    </div>
+</div>
+
+<div class="row">
+	<div class="col-sm">
+      	<div class="gradient-wrap img-box">
+    		<a target="" href="../../../../img/grade-test/7.jpg"><img class="img" src="../../../../img/grade-test/7.jpg" alt="" /></a>
+		</div>
+    </div>
+    <div class="col-sm">
+      <div class="gradient-wrap img-box">
+    		<a target="" href="../../../../img/grade-test/7.jpg"><img class="img" src="../../../../img/grade-test/7.jpg" alt="" /></a>
 		</div>
     </div>
 </div>
